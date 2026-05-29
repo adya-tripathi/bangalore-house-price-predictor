@@ -1,0 +1,10 @@
+# Ignore Jupyter Notebook checkpoint directories
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore the heavy dataset inside the data folder 
+# (It's better to keep large CSVs off GitHub)
+data/
