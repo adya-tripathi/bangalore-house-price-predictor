@@ -8,3 +8,4 @@ __pycache__/
 # Ignore the heavy dataset inside the data folder 
 # (It's better to keep large CSVs off GitHub)
 data/
+desktop.ini
